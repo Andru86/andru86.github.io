@@ -1,4 +1,10 @@
 # The Site Configuration
+title: Your Blog Title
+tagline: Insights about companies and strategy
+author:
+  name: Your Name
+url: "https://github.com/Andru86/andru86.github.io"
+baseurl: ""
 
 # Import the theme
 theme: jekyll-theme-chirpy
